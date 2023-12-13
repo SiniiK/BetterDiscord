@@ -1,0 +1,30 @@
+.icon_eff5d4 {
+    height: 11px;
+    width: 11px;
+    opacity: 0.4;
+}
+.overflow__87fe8:not(.nameAndDecorators_cfd1ff .overflow__87fe8) {
+    text-transform: capitalize !important;
+    font-size: 12pt;
+    font-weight: 500;
+}
+.header__104ca {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.scrollableContainer__33e06 {
+    border-radius:20px;
+    min-height: 0px !important;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start !important;
+}
+.scroller__1f96e {
+    margin-right: 0px !important;
+}
+.inner__9fd0b {
+    min-width: 98.5%;
+    max-height: 50vh;
+}
